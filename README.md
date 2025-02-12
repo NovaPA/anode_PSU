@@ -4,5 +4,6 @@
 Оригинальная статья в блоге https://radiomonkeys.blogspot.com/2016/06/tubeprepsu.html
 
 Рабочая схема в DipTrace выглядит так:
-![схема вДТ](https://github.com/user-attachments/assets/248669ca-d86a-4a8c-b20c-2ef9f979267d)
+![image](https://github.com/user-attachments/assets/19ac6a4c-86de-4f68-9a54-c10a6d8ffaf5)
+
 В репозитории имеется множество модификаций печатной платы под разные размеры, разный способ крепежа и разное количество конденсаторов
